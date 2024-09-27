@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilepic2 from "../assets/profilepic2.jpg";
+import profilepic1 from "../assets/profilepic1.jpg";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -46,7 +46,7 @@ const Hero = () => {
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
-              src={profilepic2}
+              src={profilepic1}
               alt="Alwin James Mueca"
               className="w-full h-auto max-w-[250px] lg:max-w-[350px] rounded-2xl"
             />

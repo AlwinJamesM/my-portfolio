@@ -1,4 +1,4 @@
-import profilepic1 from "../assets/profilepic1.jpg";
+import profilepic2 from "../assets/profilepic2.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 // okay
@@ -19,8 +19,8 @@ const About = () => {
           <div className="flex items-center justify-center">
             <img
               className="w-full h-auto max-w-[250px] lg:max-w-[350px] rounded-2xl"
-              src={profilepic1}
-              alt=""
+              src={profilepic2}
+              alt="Profile Pic 2"
             />
           </div>
         </motion.div>
