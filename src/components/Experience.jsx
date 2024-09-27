@@ -1,6 +1,6 @@
 import { EXPERIENCES } from "../constants";
 import { motion } from "framer-motion";
-
+// try
 const Experience = () => {
   return (
     <div className="borde-b border-neutral-900 pb-4">
