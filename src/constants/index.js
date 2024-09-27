@@ -12,7 +12,7 @@ I am eager to further develop my skills and knowledge and contribute to unique p
 My work is inspired by a desire to bring innovative design aspects to life while guaranteeing a smooth and responsive user experience.`;
 export const EXPERIENCES = [
   {
-    year: "March 2023 - June 2023",
+    year: "March 2024 - June 2024",
     role: "Web Developer Intern",
     company: " | St. Patrick's Medical System Inc.",
     description: ` Developing and enhancing website features, improving user interface and experience`,
