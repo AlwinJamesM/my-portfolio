@@ -1,7 +1,7 @@
 import profilepic2 from "../assets/profilepic2.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
-
+// okay
 const About = () => {
   return (
     <div className="border-b border-neutral-900 pb-4">
