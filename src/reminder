@@ -1,0 +1,8 @@
+for changes code
+
+change any code components
+then push it to github using main branch
+open terminal
+run npm run build then
+run npm run deploy
+then check it npm run dev localhosting if the changes is now changed
