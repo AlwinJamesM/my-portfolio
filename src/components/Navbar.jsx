@@ -11,7 +11,7 @@ const Navbar = () => {
           href="https://www.linkedin.com/in/alwin-james-mueca-5808162b8/"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white hover:text-[#0077b5]" // Default black, hover LinkedIn blue
+          className="text-gray hover:text-[#0077b5]" // Default black, hover LinkedIn blue
         >
           <FaLinkedin />
         </a>
@@ -19,7 +19,7 @@ const Navbar = () => {
           href="https://github.com/AlwinJamesM"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white hover:text-[#333]" // Default black, hover dark gray
+          className="text-gray hover:text-[#333]" // Default black, hover dark gray
         >
           <FaGithub />
         </a>
@@ -27,7 +27,7 @@ const Navbar = () => {
           href="https://www.instagram.com/alwnjmes/"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white hover:text-[#E1306C]" // Default black, hover Instagram pink
+          className="text-gray hover:text-[#E1306C]" // Default black, hover Instagram pink
         >
           <FaInstagram />
         </a>
@@ -35,7 +35,7 @@ const Navbar = () => {
           href="https://x.com/alwnjmes"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white hover:text-[#1DA1F2]" // Default black, hover Twitter blue
+          className="text-gray hover:text-[#1DA1F2]" // Default black, hover Twitter blue
         >
           <FaTwitter />
         </a>
